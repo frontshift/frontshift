@@ -1,12 +1,9 @@
 ### Hi there 👋
 #### I'm open for business peeps. Hit me up on [LinkedIn](https://www.linkedin.com/in/wanjastier/)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9dWIIw3P_UA
-" target="_blank"><img src="http://img.youtube.com/vi/9dWIIw3P_UA/0.jpg" 
-alt="I'm available for remote work" width="523" height="930" border="10" /></a>
+![alt text][logo]
 
-
-
+[logo]: https://i.imgflip.com/7y6twi.jpg "Hire me!
 
 ## About me
 
