@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm open for business peeps. Hit me up on [LinkedIn](https://www.linkedin.com/in/wanjastier/)
 
-![Hire me!](https://i.imgflip.com/7y6twi.jpg "Hire me!")
+![Hire me!](https://i.imgflip.com/7y6vj2.jpg "Hire me!")
 
 
 ## About me
