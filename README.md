@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### I'm open for business peeps. Hit me up on [LinkedIn](https://www.linkedin.com/in/wanjastier/)
 
 
 <!--
